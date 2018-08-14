@@ -12,12 +12,12 @@
         The ICE App
     </description>
 
-    <author href="http://ice.xjtlu.edu.cn" email="mits-app@xjtlu.edu.cn">
+    <author href="https://ice.xjtlu.edu.cn" email="mits-app@xjtlu.edu.cn">
         XJTLU
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>3.5.11</string>
+        <string>3.5.1</string>
     </edit-config>
 
     <gap:platform name="ios" />
