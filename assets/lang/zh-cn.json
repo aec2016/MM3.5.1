@@ -1071,7 +1071,7 @@
     "core.mainmenu.logout": "注销",
     "core.mainmenu.mycourses": "我的课程",
     "core.mainmenu.website": "网站",
-    "core.maxsizeandattachments": "新文件的最大尺寸： {{$a.size}} ，最多附件：{{$a.attachments}}",
+    "core.maxsizeandattachments": "新文件的最大尺寸： {{$a.size}} ，最多附件个数：{{$a.attachments}}",
     "core.min": "最低分值",
     "core.mins": "分钟",
     "core.mod_assign": "作业",
